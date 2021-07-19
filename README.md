@@ -1,2 +1,2 @@
 # Data-Visualizer
-Represents inputted data through a variety of graph options.
+My and my team were national qualifying runner-ups for software development in the Texas Technology Students Assocation state competition.
